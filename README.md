@@ -16,5 +16,6 @@ Essa frase de Steve Jobs me toca pois é como enxergo absolutamente tudo, inclus
 
 
 ## 🛠 Habilidades
-Javascript, Python, C#, C
-Design Gráfico
+* Javascript, Python, C#, C
+* SQLServer
+* Design Gráfico
