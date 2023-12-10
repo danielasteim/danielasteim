@@ -1,10 +1,8 @@
 
 # Daniela de Sá Steim
-Estudante de Engenharia da Computação na UTFPR - campus Toledo 
+Computer Engineering Student, UTFPR - Toledo, Brazil
         
-"O simples pode ser mais difícil do que o complexo: é preciso trabalhar duro para 
-        limpar seus pensamentos de forma a torná-los simples. Mas no final vale a pena, 
-        porque, quando chegamos lá, podemos mover montanhas."
+"Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains."
                 - Steve Jobs 
 
 ###  📧Links
@@ -15,6 +13,7 @@ Estudante de Engenharia da Computação na UTFPR - campus Toledo
 
 
 ## 🛠 Habilidades
-* Javascript, Python, C#, C
+* Javascript, C#, C
+* Python: PyTorch, Pandas, Numpy, Matplotlib, Flask, Django
 * SQLServer
 * Design Gráfico
