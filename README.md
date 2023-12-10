@@ -7,8 +7,6 @@ Estudante de Engenharia da Computação na UTFPR - campus Toledo
         porque, quando chegamos lá, podemos mover montanhas."
                 - Steve Jobs 
 
-Essa frase de me toca pois é como enxergo absolutamente tudo, inclusive o desenvolvimento: a arte de alcançar o simples é dificil, e quanto mais simples, na verdade mais complexo é. Porém as coisas mais bonitas no mundo são simples.
-
 ###  📧Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=823085)](https://www.linkedin.com/in/danielasteim/)
