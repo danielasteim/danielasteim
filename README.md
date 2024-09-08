@@ -11,9 +11,3 @@ Computer Engineering Student, UTFPR - Toledo, Brazil
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielasteim&layout=donut&bg_color=000&border_color=823085&title_color=823085&text_color=FFF)
 
-
-## 🛠 Habilidades
-* Javascript, C#, C
-* Python: PyTorch, Pandas, Numpy, Matplotlib, Flask, Django
-* SQLServer
-* Design Gráfico
