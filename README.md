@@ -1,5 +1,5 @@
 
-# Daniela de Sá Steim
+# Daniela de Sá
 Computer Engineering Student, UTFPR - Toledo, Brazil
         
 "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple."
